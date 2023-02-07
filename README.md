@@ -3,6 +3,5 @@
 
 ### Frontend 
  - Sebastian
-
 ### Backend
  - Ben, Pual
