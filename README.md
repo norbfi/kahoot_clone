@@ -4,4 +4,4 @@
 ### Frontend 
  - Sebastian
 ### Backend
- - Ben, Pual
+ - Ben, Paul
